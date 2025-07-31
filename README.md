@@ -1,14 +1,23 @@
 <h1 align="center">Olá, eu sou o Bruno Alfeu! 👋</h1>
 
 <p align="center">
-Estudante de Sistemas de Informação na <strong>PUC Minas</strong>, apaixonado por tecnologia e focado em me tornar um Engenheiro de Software — com o objetivo futuro de atuar como Arquiteto de Soluções.
+Estudante de Sistemas de Informação na <strong>PUC Minas</strong>, apaixonado por tecnologia e focado na carreira de **Arquiteto de Cloud**.
 </p>
 
 ---
 
 ### 🚀 Sobre mim
 
-Sou motivado pela criação de soluções escaláveis e robustas. Minha jornada de estudos está centrada em desenvolvimento **back-end** com Java e Spring, conectando esses conhecimentos ao mundo de **Cloud & DevOps**.
+Sou motivado pela criação de soluções escaláveis, seguras e robustas na nuvem. Minha jornada de estudos está centrada em desenvolvimento **back-end** com Java e Spring, aplicando esses conhecimentos em arquiteturas modernas de **Cloud & DevOps**.
+
+---
+
+### 🏆 Principais Projetos
+
+#### 🛒 DSCommerce - API REST para E-commerce
+Uma API REST completa para um sistema de e-commerce, construída com **Java, Spring Boot e Spring Security (OAuth2)**. O projeto inclui gerenciamento de produtos, clientes, pedidos e um sistema de autorização baseado em perfis. Foi o projeto de conclusão do curso Java Spring Professional da DevSuperior.
+
+* **[🔗 Ver Repositório Completo](https://github.com/BrunoAlfeu/Dscommerce)**
 
 ---
 
